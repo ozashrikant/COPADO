@@ -184,6 +184,15 @@
         <type>Phone</type>
     </fields>
     <fields>
+        <fullName>Bill_Paid__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Bill Paid</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Department__c</fullName>
         <externalId>false</externalId>
         <label>Department</label>
